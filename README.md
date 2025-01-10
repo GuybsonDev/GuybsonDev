@@ -24,8 +24,9 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
 ---
 ### 📊 Estatísticas do GitHub:
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuybsonDev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=GuybsonDev&show_icons=true&theme=radical" alt="GitHub Stats" height="200" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&layout=compact&theme=radical" alt="Top Languages" height="200" />
+</div>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guyb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
