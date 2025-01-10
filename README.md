@@ -23,8 +23,10 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
   Tenho experiência em **SQL**, utilizando-o tanto em projetos pessoais quanto no trabalho para garantir a integridade e eficiência no gerenciamento de dados.
 ---
 ### 📊 Estatísticas do GitHub:
-![GuybsonDev GitHub stats](https://github-readme-stats.vercel.app/api?username=GuybsonDev&show_icons=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&theme=radical&langs_count=6&card_width=495)
+<div style="display: flex; justify-content: space-between;">
+  <img src="https://github-readme-stats.vercel.app/api?username=GuybsonDev&show_icons=true&theme=radical" alt="GitHub Stats" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&layout=compact&theme=radical" alt="Top Languages" width="48%" />
+</div>
 <div style="display: inline_block"><br>
   <img align="center" alt="Guyb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Guyb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
