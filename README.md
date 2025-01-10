@@ -19,9 +19,9 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
   <img src="https://github-readme-stats.vercel.app/api?username=GuybsonDev&show_icons=true&theme=radical" alt="GitHub Stats" width="45%" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&layout=compact&theme=radical" alt="Top Languages" width="49%" />
 </p>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Guyb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Guyb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Guyb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="Guyb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+<div align="center">
+  <img alt="Guyb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img alt="Guyb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img alt="Guyb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img alt="Guyb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
