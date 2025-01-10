@@ -14,7 +14,7 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
 - 🌱 **Git e GitHub:** Colaboração em equipe com ferramentas de controle de versão.
 - 🗄️ **Banco de dados:** Experiência com **SQL** para garantir a integridade e eficiência dos dados.
 ---
-### 📊 Estatísticas do GitHub:
+### Estatísticas do GitHub:
 <div align="center">
   <img alt="Guyb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img alt="Guyb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -28,9 +28,10 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
 </p>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuybsonDev&radius=16&theme=dracula&area=true&hide_border=true" height="300" alt="activity-graph graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuybsonDev&radius=16&theme=github&area=true&hide_border=true" height="300" alt="activity-graph graph" />
 </div>
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app?username=GuybsonDev&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
 </div>
+
