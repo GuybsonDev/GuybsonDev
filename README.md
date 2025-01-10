@@ -17,7 +17,7 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
 - 💻 **FullStack Development:**  
   Foco principalmente em back-end, mas também tenho experiência com **Streamlit**, além de conhecimento em **HTML5**.
 - 📊 **Análise e manipulação de dados:**  
-  Trabalho com ferramentas como **Pandas** e **Power BI**, desenvolvendo insights e relatórios que agregam valor à tomada de decisões.
+  Trabalho e possuo projetos de estudo com ferramentas como **Pandas** e **Power BI**, desenvolvendo insights e relatórios que agregam valor à tomada de decisões.
 - 🌱 **Git e GitHub:**  
   Colaboro frequentemente em projetos em equipe, o que me tornou proficiente no uso de ferramentas de controle de versão como Git e GitHub.
 - 🗄️ **Banco de dados:**  
