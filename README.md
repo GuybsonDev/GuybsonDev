@@ -5,8 +5,7 @@ Minha conexão com a tecnologia começou cedo, inicialmente na área de TI, com 
 Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui é onde organizo todos os meus projetos e compartilho meu aprendizado.
 
 ---
-
-### 🚀 Meus principais conhecimentos:
+### Meus principais conhecimentos:
 - ⚙️ **Automação de processos:**  
   Tenho ampla experiência em automatizar tarefas e processos com Python, aplicando essas soluções tanto em projetos pessoais quanto no ambiente profissional.
 - 🤖 **Chatbots:**  
