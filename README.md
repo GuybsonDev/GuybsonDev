@@ -1,5 +1,4 @@
 ## 👋 Bem-vindo!
-
 ### Sobre:
 Minha conexão com a tecnologia começou cedo, inicialmente na área de TI, com montagem e manutenção de computadores. Porém, foi em 2023 que descobri minha verdadeira paixão: a programação. Desde então, venho aprimorando minhas habilidades por meio de projetos, estudos e experiências no trabalho.  
 Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui é onde organizo todos os meus projetos.
