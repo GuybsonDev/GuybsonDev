@@ -5,14 +5,15 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
 
 ---
 ### Meus principais conhecimentos:
-- ⚙️ **Automação de processos:** Automação de tarefas e processos com Python, aplicando soluções em projetos pessoais e profissionais.
-- 🤖 **Chatbots:** Criação de fluxos conversacionais e integração com APIs, do planejamento à implementação.
-- 🌐 **WebScraping:** Projetos com **Selenium** e **BeautifulSoup** para extração e estruturação de dados.
-- 🔗 **APIs REST:** Consumo e desenvolvimento de APIs RESTful em projetos e no ambiente de trabalho.
-- 💻 **FullStack Development:** Foco em back-end, com experiência em **Streamlit** e **HTML5**.
-- 📊 **Análise de dados:** Projetos com **Pandas** e **Power BI** para gerar insights e relatórios.
-- 🌱 **Git e GitHub:** Colaboração em equipe com ferramentas de controle de versão.
-- 🗄️ **Banco de dados:** Experiência com **SQL** para garantir a integridade e eficiência dos dados.
+- 📊 **Análise de dados:** Coleta, manipulação, e visualização de dados utilizando **Pandas**, **Power BI**, e **Looker Studio** para gerar insights estratégicos e relatórios.
+- ⚙️ **Automação de processos:** Desenvolvimento de soluções automatizadas com **Python** para otimizar tarefas repetitivas e processos empresariais.
+- 🔗 **APIs REST:** Consumo e criação de **APIs RESTful** para integração e fornecimento de dados em sistemas diversos.
+- 🌐 **Web Scraping:** Extração e estruturação de dados da web utilizando ferramentas como **BeautifulSoup** e **Selenium**.
+- 🤖 **Machine Learning:** Aplicação de modelos preditivos e análises exploratórias em projetos pessoais com **Deep Learning**.
+- 📈 **Visualização de dados:** Criação de dashboards interativos com **Power BI**, **Matplotlib**, e **Streamlit** para monitoramento e comunicação de métricas.
+- 🗄️ **Banco de dados:** Manipulação e gerenciamento de dados em **SQL**, com foco na eficiência e integridade das informações.
+- 🌱 **Versionamento:** Experiência com **Git** e **GitHub**, colaborando em equipes para desenvolvimento e controle de código.
+- 💡 **Metodologias Ágeis:** Experiência com **Kanban** para organizar e gerenciar projetos com entregas rápidas e eficientes.
 ---
 ### Estatísticas do GitHub:
 <div align="center">
