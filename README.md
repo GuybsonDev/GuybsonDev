@@ -25,7 +25,7 @@ Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=GuybsonDev&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 200px; width: 49;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; width: 51;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&layout=compact&theme=radical" alt="Top Languages" style="height: 200px; width: 49;" />
 </p>
 
 <div align="center">
