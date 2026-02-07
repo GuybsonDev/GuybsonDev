@@ -2,7 +2,7 @@
 ### Sobre:
 Minha conexão com a tecnologia começou cedo, inicialmente na área de TI, com montagem e manutenção de computadores. Porém, foi em 2023 que descobri minha verdadeira paixão: a programação. Desde então, venho aprimorando minhas habilidades por meio de projetos práticos, estudos contínuos e experiências profissionais.  
 
-Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, atuando no **desenvolvimento full stack**, desde a concepção de interfaces até a implementação de regras de negócio e integrações com banco de dados e APIs. Este repositório reúne meus principais projetos, experimentos e estudos técnicos.
+Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e é aqui onde organizo os meus projetos.
 
 ---
 ### Meus principais conhecimentos:
