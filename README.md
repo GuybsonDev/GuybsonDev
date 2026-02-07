@@ -1,19 +1,24 @@
 ## 👋 Bem-vindo!
 ### Sobre:
-Minha conexão com a tecnologia começou cedo, inicialmente na área de TI, com montagem e manutenção de computadores. Porém, foi em 2023 que descobri minha verdadeira paixão: a programação. Desde então, venho aprimorando minhas habilidades por meio de projetos, estudos e experiências no trabalho.  
-Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e aqui é onde organizo todos os meus projetos.
+Minha conexão com a tecnologia começou cedo, inicialmente na área de TI, com montagem e manutenção de computadores. Porém, foi em 2023 que descobri minha verdadeira paixão: a programação. Desde então, venho aprimorando minhas habilidades por meio de projetos práticos, estudos contínuos e experiências profissionais.  
+
+Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, atuando no **desenvolvimento full stack**, desde a concepção de interfaces até a implementação de regras de negócio e integrações com banco de dados e APIs. Este repositório reúne meus principais projetos, experimentos e estudos técnicos.
 
 ---
 ### Meus principais conhecimentos:
-- 📊 **Análise de dados:** Coleta, manipulação, e visualização de dados utilizando **Pandas**, **Power BI**, e **Looker Studio** para gerar insights estratégicos e relatórios.
-- ⚙️ **Automação de processos:** Desenvolvimento de soluções automatizadas com **Python** para otimizar tarefas repetitivas e processos empresariais.
-- 🔗 **APIs REST:** Consumo e criação de **APIs RESTful** para integração e fornecimento de dados em sistemas diversos.
-- 🌐 **Web Scraping:** Extração e estruturação de dados da web utilizando ferramentas como **BeautifulSoup** e **Selenium**.
-- 🤖 **Machine Learning:** Aplicação de modelos preditivos e análises exploratórias em projetos pessoais com **Deep Learning**.
-- 📈 **Visualização de dados:** Criação de dashboards interativos com **Power BI**, **Matplotlib**, e **Streamlit** para monitoramento e comunicação de métricas.
-- 🗄️ **Banco de dados:** Manipulação e gerenciamento de dados em **SQL**, com foco na eficiência e integridade das informações.
-- 🌱 **Versionamento:** Experiência com **Git** e **GitHub**, colaborando em equipes para desenvolvimento e controle de código.
-- 💡 **Metodologias Ágeis:** Experiência com **Kanban** para organizar e gerenciar projetos com entregas rápidas e eficientes.
+- 🧩 **Desenvolvimento Full Stack:** Criação de aplicações completas, integrando frontend, backend e banco de dados, com foco em performance, escalabilidade e boas práticas de arquitetura.
+- 📱 **Frontend & Mobile:** Desenvolvimento de interfaces web com **React** e aplicações mobile multiplataforma utilizando **React Native**, priorizando componentização, reutilização de código e boa experiência do usuário.
+- 🐍 **Backend com Django:** Desenvolvimento de APIs e sistemas backend utilizando **Django** e **Django REST Framework**, incluindo autenticação, autorização, validações e regras de negócio.
+- 🔗 **APIs REST:** Consumo e criação de **APIs RESTful** para integração entre sistemas, seguindo padrões HTTP e boas práticas de versionamento.
+- 📊 **Análise de dados:** Coleta, manipulação e visualização de dados utilizando **Pandas**, **Power BI** e **Looker Studio** para geração de insights e relatórios estratégicos.
+- ⚙️ **Automação de processos:** Desenvolvimento de soluções automatizadas com **Python** para otimização de tarefas repetitivas e fluxos operacionais.
+- 🌐 **Web Scraping:** Extração e estruturação de dados da web utilizando **BeautifulSoup** e **Selenium**.
+- 🤖 **Machine Learning:** Aplicação de modelos preditivos e análises exploratórias em projetos pessoais, incluindo conceitos de **Deep Learning**.
+- 📈 **Visualização de dados:** Criação de dashboards interativos com **Power BI**, **Matplotlib** e **Streamlit** para monitoramento e comunicação de métricas.
+- 🗄️ **Banco de dados:** Modelagem, manipulação e gerenciamento de dados em **SQL**, com foco em integridade, performance e normalização.
+- 🌱 **Versionamento:** Experiência com **Git** e **GitHub**, colaborando em equipes e aplicando boas práticas de controle de versão.
+- 💡 **Metodologias Ágeis:** Experiência com **Kanban**, organização de demandas, priorização e entregas contínuas.
+
 ---
 ### Estatísticas do GitHub:
 <div align="center">
