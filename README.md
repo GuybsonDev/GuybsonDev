@@ -1,43 +1,88 @@
-## 👋 Bem-vindo!
-### Sobre:
-Minha conexão com a tecnologia começou cedo, inicialmente na área de TI, com montagem e manutenção de computadores. Porém, foi em 2023 que descobri minha verdadeira paixão: a programação. Desde então, venho aprimorando minhas habilidades por meio de projetos práticos, estudos contínuos e experiências profissionais.  
+<div align="center">
 
-Atualmente, ocupo o cargo de **Analista de Desenvolvimento de Sistemas**, e é aqui onde organizo os meus projetos.
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:141321,100:FE428E&section=header&text=Guybson%20Lopes&fontColor=FFFFFF&fontSize=48&fontAlignY=32&desc=Analista%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=52&descSize=16" width="100%" alt="capa" />
+
+<a href="https://www.linkedin.com/in/guybson-lopes-132b7020b/">
+  <img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=FE428E" alt="LinkedIn" />
+</a>
+<img src="https://komarev.com/ghpvc/?username=GuybsonDev&style=for-the-badge&color=FE428E&label=VISITAS" alt="visitas" />
+
+</div>
 
 ---
-### Meus principais conhecimentos:
-- 🧩 **Desenvolvimento Full Stack:** Criação de aplicações completas, integrando frontend, backend e banco de dados, com foco em performance, escalabilidade e boas práticas de arquitetura.
-- 📱 **Frontend & Mobile:** Desenvolvimento de interfaces web com **React** e aplicações mobile multiplataforma utilizando **React Native**, priorizando componentização, reutilização de código e boa experiência do usuário.
-- 🐍 **Backend com Django:** Desenvolvimento de APIs e sistemas backend utilizando **Django** e **Django REST Framework**, incluindo autenticação, autorização, validações e regras de negócio.
-- 🔗 **APIs REST:** Consumo e criação de **APIs RESTful** para integração entre sistemas, seguindo padrões HTTP e boas práticas de versionamento.
-- 📊 **Análise de dados:** Coleta, manipulação e visualização de dados utilizando **Pandas**, **Power BI** e **Looker Studio** para geração de insights e relatórios estratégicos.
-- ⚙️ **Automação de processos:** Desenvolvimento de soluções automatizadas com **Python** para otimização de tarefas repetitivas e fluxos operacionais.
-- 🌐 **Web Scraping:** Extração e estruturação de dados da web utilizando **BeautifulSoup** e **Selenium**.
-- 🤖 **Machine Learning:** Aplicação de modelos preditivos e análises exploratórias em projetos pessoais, incluindo conceitos de **Deep Learning**.
-- 📈 **Visualização de dados:** Criação de dashboards interativos com **Power BI**, **Matplotlib** e **Streamlit** para monitoramento e comunicação de métricas.
-- 🗄️ **Banco de dados:** Modelagem, manipulação e gerenciamento de dados em **SQL**, com foco em integridade, performance e normalização.
-- 🌱 **Versionamento:** Experiência com **Git** e **GitHub**, colaborando em equipes e aplicando boas práticas de controle de versão.
-- 💡 **Metodologias Ágeis:** Experiência com **Kanban**, organização de demandas, priorização e entregas contínuas.
+
+## 👋 Oi, eu sou o Guybson
+
+Comecei mexendo com hardware — montando e consertando computadores. Em **2023** esbarrei na programação e não larguei mais.
+
+Hoje sou **Analista de Desenvolvimento de Sistemas**. O que mais gosto de fazer é pegar aquela tarefa chata e repetitiva e transformar ela em algo automático — de preferência com um dashboard bonito no final.
+
+Aqui neste perfil ficam meus projetos: APIs, dashboards, automações e uns experimentos com dados.
 
 ---
-### Estatísticas do GitHub:
-<div align="center">
-  <img alt="Guyb-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img alt="Guyb-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img alt="Guyb-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img alt="Guyb-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-</div>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=GuybsonDev&show_icons=true&theme=radical" alt="GitHub Stats" style="height: 40%; width: 47%;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuybsonDev&layout=compact&theme=radical" alt="Top Languages" style="height: 30%; width: 46%;" />
-</p>
+## 🛠️ Com o que eu trabalho
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuybsonDev&radius=16&theme=radical&area=true&hide_border=true" height="300" alt="activity-graph graph" />
+
+<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,mysql,git,github&theme=dark" alt="stack" />
+
+<br /><br />
+
+<img src="https://img.shields.io/badge/Pandas-141321?style=flat-square&logo=pandas&logoColor=FE428E" alt="Pandas" />
+<img src="https://img.shields.io/badge/Streamlit-141321?style=flat-square&logo=streamlit&logoColor=FE428E" alt="Streamlit" />
+<img src="https://img.shields.io/badge/Power%20BI-141321?style=flat-square&logo=powerbi&logoColor=FE428E" alt="Power BI" />
+<img src="https://img.shields.io/badge/Selenium-141321?style=flat-square&logo=selenium&logoColor=FE428E" alt="Selenium" />
+<img src="https://img.shields.io/badge/React%20Native-141321?style=flat-square&logo=react&logoColor=FE428E" alt="React Native" />
+
+</div>
+
+**No dia a dia:** aplicações full stack com Python/Django no back e React no front.
+**Com dados:** análise, tratamento e dashboards com Pandas, Streamlit e Power BI.
+**Por diversão:** automações, web scraping e uns modelos de machine learning.
+
+---
+
+## 📌 Alguns projetos
+
+| Projeto | O que é |
+| --- | --- |
+| [**YourDash**](https://github.com/GuybsonDev/YourDash) | Painel de monitoramento de dados pra achar insights rápido |
+| [**API Análise PIB Africano**](https://github.com/GuybsonDev/API-Analise-PIB-Africano) | API com filtros avançados sobre o PIB de países africanos (1960–2023) |
+| [**Dashboard Mercado Livre**](https://github.com/GuybsonDev/Dashboard-Mercado-Livre) | Dados de vendedores, produtos e descontos direto da API do ML |
+| [**Dashboard Energia**](https://github.com/GuybsonDev/dashboard_energia) | Consumo de energia da UFU em 2022, com Streamlit e Pandas |
+| [**Gerador de Senhas**](https://github.com/GuybsonDev/App-Gerador-de-Senhas) | App que gera e guarda senhas — tudo local, nada na nuvem |
+
+---
+
+## 📊 Meus números
+
+<div align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuybsonDev&theme=radical" width="49%" alt="estatisticas" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuybsonDev&theme=radical" width="34%" alt="linguagens por repositorio" />
+
+<br />
+
+<img src="https://streak-stats.demolab.com?user=GuybsonDev&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="60%" alt="sequencia de contribuicoes" />
+
+<br /><br />
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=GuybsonDev&radius=16&theme=radical&area=true&hide_border=true" width="95%" alt="grafico de atividade" />
+
+<br />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuybsonDev&theme=radical" width="41%" alt="linguagens mais commitadas" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuybsonDev&theme=radical&utcOffset=-3" width="41%" alt="horarios mais produtivos" />
+
+<br /><br />
+
+<img src="https://github-trophies.vercel.app/?username=GuybsonDev&theme=radical&column=7&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="95%" alt="trofeus" />
+
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app?username=GuybsonDev&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true&order=4" height="150" alt="trophy graph" />
-</div>
 
+<img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:FE428E,100:141321&section=footer" width="100%" alt="rodape" />
+
+</div>
