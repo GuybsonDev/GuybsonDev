@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Oi, eu sou o Guybson
+## 👋 Seja bem-vindo!
 
 Comecei mexendo com hardware — montando e consertando computadores. Em **2023** esbarrei na programação e não larguei mais.
 
