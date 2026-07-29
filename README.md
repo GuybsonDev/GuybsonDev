@@ -53,25 +53,12 @@ Caminhando pra **Full Stack**, que é onde eu quero chegar.
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuybsonDev&theme=radical" width="49%" alt="estatisticas" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=GuybsonDev&theme=radical" width="34%" alt="linguagens por repositorio" />
-
-<br />
-
-<img src="https://streak-stats.demolab.com?user=GuybsonDev&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="60%" alt="sequencia de contribuicoes" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=GuybsonDev&theme=radical" width="47%" alt="estatisticas" />
+<img src="https://streak-stats.demolab.com?user=GuybsonDev&theme=radical&hide_border=true&locale=pt_BR&date_format=j%20M%5B%20Y%5D" width="47%" alt="sequencia de contribuicoes" />
 
 <br /><br />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=GuybsonDev&radius=16&theme=radical&area=true&hide_border=true" width="95%" alt="grafico de atividade" />
-
-<br />
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=GuybsonDev&theme=radical" width="41%" alt="linguagens mais commitadas" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=GuybsonDev&theme=radical&utcOffset=-3" width="41%" alt="horarios mais produtivos" />
-
-<br /><br />
-
-<img src="https://github-trophies.vercel.app/?username=GuybsonDev&theme=radical&column=7&row=1&margin-w=8&margin-h=8&no-bg=true&no-frame=true" width="95%" alt="trofeus" />
 
 </div>
 
