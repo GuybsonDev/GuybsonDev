@@ -15,9 +15,11 @@
 
 Comecei mexendo com hardware — montando e consertando computadores. Em **2023** esbarrei na programação e não larguei mais.
 
-Hoje sou **Analista de Desenvolvimento de Sistemas**. O que mais gosto de fazer é pegar aquela tarefa chata e repetitiva e transformar ela em algo automático — de preferência com um dashboard bonito no final.
+Hoje sou **Analista de Desenvolvimento de Sistemas**, e meu trabalho começa antes do código. Eu sento com as áreas — comercial, financeiro, operacional, atendimento — entendo a regra de cada uma e desenho a solução que faz sentido pra aquela dor específica. Cada setor fala uma língua diferente, e boa parte do serviço é traduzir isso.
 
-Aqui neste perfil ficam meus projetos: APIs, dashboards, automações e uns experimentos com dados.
+Depois vem a arquitetura: qual linguagem, qual stack, como o projeto vai se sustentar. Gosto de decidir isso com calma no começo — é o que evita retrabalho lá na frente. E fecho com a implantação, colocando o sistema pra rodar de verdade na rotina de quem vai usar.
+
+Caminhando pra **Full Stack**, que é onde eu quero chegar.
 
 ---
 
@@ -25,33 +27,25 @@ Aqui neste perfil ficam meus projetos: APIs, dashboards, automações e uns expe
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,django,js,react,html,css,postgres,mysql,git,github&theme=dark" alt="stack" />
+<img src="https://skillicons.dev/icons?i=django,react,nextjs,ts,python,js,html,css,postgres,mysql,git,github&theme=dark" alt="stack" />
 
-<br /><br />
+</div>
 
+**Back-end:** Django e Django REST Framework — APIs, autenticação, regras de negócio.
+**Front-end:** React, Next.js e TypeScript, com foco em componentização e reuso.
+**Banco de dados:** modelagem e consultas em SQL, pensando em integridade e performance.
+
+<div align="center">
+
+<sub>Também tenho bagagem em</sub>
+
+<img src="https://img.shields.io/badge/React%20Native-141321?style=flat-square&logo=react&logoColor=FE428E" alt="React Native" />
 <img src="https://img.shields.io/badge/Pandas-141321?style=flat-square&logo=pandas&logoColor=FE428E" alt="Pandas" />
 <img src="https://img.shields.io/badge/Streamlit-141321?style=flat-square&logo=streamlit&logoColor=FE428E" alt="Streamlit" />
 <img src="https://img.shields.io/badge/Power%20BI-141321?style=flat-square&logo=powerbi&logoColor=FE428E" alt="Power BI" />
 <img src="https://img.shields.io/badge/Selenium-141321?style=flat-square&logo=selenium&logoColor=FE428E" alt="Selenium" />
-<img src="https://img.shields.io/badge/React%20Native-141321?style=flat-square&logo=react&logoColor=FE428E" alt="React Native" />
 
 </div>
-
-**No dia a dia:** aplicações full stack com Python/Django no back e React no front.
-**Com dados:** análise, tratamento e dashboards com Pandas, Streamlit e Power BI.
-**Por diversão:** automações, web scraping e uns modelos de machine learning.
-
----
-
-## 📌 Alguns projetos
-
-| Projeto | O que é |
-| --- | --- |
-| [**YourDash**](https://github.com/GuybsonDev/YourDash) | Painel de monitoramento de dados pra achar insights rápido |
-| [**API Análise PIB Africano**](https://github.com/GuybsonDev/API-Analise-PIB-Africano) | API com filtros avançados sobre o PIB de países africanos (1960–2023) |
-| [**Dashboard Mercado Livre**](https://github.com/GuybsonDev/Dashboard-Mercado-Livre) | Dados de vendedores, produtos e descontos direto da API do ML |
-| [**Dashboard Energia**](https://github.com/GuybsonDev/dashboard_energia) | Consumo de energia da UFU em 2022, com Streamlit e Pandas |
-| [**Gerador de Senhas**](https://github.com/GuybsonDev/App-Gerador-de-Senhas) | App que gera e guarda senhas — tudo local, nada na nuvem |
 
 ---
 
