@@ -11,7 +11,7 @@
 
 ---
 
-## 👋 Seja bem-vindo!
+## Seja bem-vindo!
 
 Comecei mexendo com hardware — montando e consertando computadores. Em **2023** esbarrei na programação e não larguei mais.
 
@@ -23,7 +23,7 @@ Caminhando pra **Full Stack**, que é onde eu quero chegar.
 
 ---
 
-## 🛠️ Com o que eu trabalho
+## Com o que eu trabalho
 
 <div align="center">
 
@@ -49,7 +49,7 @@ Caminhando pra **Full Stack**, que é onde eu quero chegar.
 
 ---
 
-## 📊 Meus números
+## Meus números
 
 <div align="center">
 
