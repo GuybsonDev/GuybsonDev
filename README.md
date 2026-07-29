@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:141321,100:FE428E&section=header&text=Guybson%20Lopes&fontColor=FFFFFF&fontSize=48&fontAlignY=32&desc=Analista%20de%20Desenvolvimento%20de%20Sistemas&descAlignY=52&descSize=16" width="100%" alt="capa" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=180&color=0:141321,100:FE428E&section=header&text=Guybson%20Lopes&fontColor=FFFFFF&fontSize=48&fontAlignY=32&desc=Desenvolvedor%20Full%20Stack&descAlignY=52&descSize=18" width="100%" alt="capa" />
 
 <a href="https://www.linkedin.com/in/guybson-lopes-132b7020b/">
   <img src="https://img.shields.io/badge/LinkedIn-141321?style=for-the-badge&logo=linkedin&logoColor=FE428E" alt="LinkedIn" />
