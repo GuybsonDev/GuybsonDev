@@ -13,11 +13,11 @@
 
 ## Seja bem-vindo!
 
-Comecei mexendo com hardware — montando e consertando computadores. Em **2023** esbarrei na programação e não larguei mais.
+Comecei mexendo com hardware montando e consertando computadores. Em **2023** esbarrei na programação e não larguei mais.
 
-Hoje sou **Analista de Desenvolvimento de Sistemas**, e meu trabalho começa antes do código. Eu sento com as áreas — comercial, financeiro, operacional, atendimento — entendo a regra de cada uma e desenho a solução que faz sentido pra aquela dor específica. Cada setor fala uma língua diferente, e boa parte do serviço é traduzir isso.
+Hoje sou **Analista de Desenvolvimento de Sistemas**, e meu trabalho começa antes do código. Eu sento com as áreas comercial, financeiro, operacional, atendimento entendo a regra de cada uma e desenho a solução que faz sentido pra aquela dor específica. Cada setor fala uma língua diferente, e boa parte do serviço é traduzir isso.
 
-Depois vem a arquitetura: qual linguagem, qual stack, como o projeto vai se sustentar. Gosto de decidir isso com calma no começo — é o que evita retrabalho lá na frente. E fecho com a implantação, colocando o sistema pra rodar de verdade na rotina de quem vai usar.
+Depois vem a arquitetura: qual linguagem, qual stack, como o projeto vai se sustentar. Gosto de decidir isso com calma no começo é o que evita retrabalho lá na frente. E fecho com a implantação, colocando o sistema pra rodar de verdade na rotina de quem vai usar.
 
 Caminhando pra **Full Stack**, que é onde eu quero chegar.
 
